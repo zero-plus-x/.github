@@ -28,4 +28,4 @@ At 0+X, we have a number of different budgets that feed into our overall employe
 
 <h3><b>Handbook</b></h3>
 
-To help you settle in at 0+X, we have incorporated a handbook into our team’s Slack server filled with practical, hands-on advice and information about the company, our work environment, Sweden, and how to get settled in. Our Slack server is also a great place to get involved with the 0+X community, as it contains over 50 channels dedicated to hobbies, groups, and activities, and includes everything from Stockholm tips, to cycling, to game development, to lifehacks, to travel, and much more! 
+To help you settle in at 0+X, we have incorporated a [handbook](https://github.com/zero-plus-x/handbook/wiki) into our team’s Slack server filled with practical, hands-on advice and information about the company, our work environment, Sweden, and how to get settled in. Our Slack server is also a great place to get involved with the 0+X community, as it contains over 50 channels dedicated to hobbies, groups, and activities, and includes everything from Stockholm tips, to cycling, to game development, to lifehacks, to travel, and much more! 
